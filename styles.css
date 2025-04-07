@@ -255,4 +255,8 @@ body.dark .delete-btn {
   color: #ff7b7b;
 }
 
+li.dragging {
+  opacity: 0.5;
+}
+
 
